@@ -1,31 +1,9 @@
-.page-content {
-    max-width: none
-  !important;
-  }
-
-.wrapper {
-     max-width: none
-  !important;
-      margin-left: 20px
-  !important;
-  }
-
-.post-content {
-     width: 400px;
-     overflow-x: hidden;
-  }
-
-.post-content img {
-     display: block;
-}
-
+html,
 body {
-         width: 400px;
-         margin-left: auto;
-         margin-right: auto;
-         overflow-x: hidden;
+        width: 400px !important;
+        overflow-x: hidden !important;
 }
 
 img {
-        max-width: none;
+        max-width: none !important;
 }
