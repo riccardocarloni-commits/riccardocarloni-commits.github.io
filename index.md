@@ -1,5 +1,5 @@
 --- 
-title: # CORDA PAZZA
+title: CORDA PAZZA
 ---
 
 # Benvenuto nel mio blog
