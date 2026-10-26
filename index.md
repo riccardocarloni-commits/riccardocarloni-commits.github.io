@@ -1,5 +1,5 @@
 --- 
-title: Home
+title: CORDA PAZZA
 ---
 
 # Benvenuto nel mio blog
