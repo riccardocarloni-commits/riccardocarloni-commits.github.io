@@ -8,6 +8,10 @@ body {
          margin: 0 auto !important;
 }
 
+body {
+        margin left: 15px;
+}
+
 img {
         max-width: none !important;
 }
