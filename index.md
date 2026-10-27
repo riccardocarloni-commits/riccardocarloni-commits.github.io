@@ -11,4 +11,3 @@ riflessioni
 
 
 <a href="corda%20pazza%201.html">-1-</a>
-<img width="654" height="395" alt="image" src="https://github.com/user-attachments/assets/b64b7aa1-d43d-4387-9d83-829f9db3b371" />
