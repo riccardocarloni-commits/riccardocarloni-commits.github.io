@@ -21,3 +21,5 @@ riflessioni
 <a href="corda%20pazza%205.html">-5-</a>
 
 <a href="e%20tu%2C%20cielo....html">-"E tu, cielo..."- backup dal 2008</a>
+
+<a href="PAPA%20PAOLO%20VI%20Tre%20interventi%20politici.html">-PAPA PAOLO VI- Tre interventi politici</a>
